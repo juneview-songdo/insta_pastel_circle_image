@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/component/insta_pastel_circle_image/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/insta_pastel_circle_image/assets/21379657/263e4c16-6436-4e02-a509-4f7a12179bce)
 
